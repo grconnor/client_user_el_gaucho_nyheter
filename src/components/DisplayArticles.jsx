@@ -2,11 +2,13 @@ import { Card, Image, Message } from "semantic-ui-react";
 import React, { useEffect, useState } from "react";
 import Articles from "../modules/articles";
 import { Link, useParams, useLocation } from "react-router-dom";
+import { useSelector } from 'react-redux';
 
 const DisplayArticles = () => {
   const [articles, setArticles] = useState([]);
   const { category } = useParams();
-  const [message, setMessage] = useState();
+  const message = useSelector((state) => state.message)
+  const [setMessage] = useState();
   let location = useLocation();
 
   useEffect(() => {

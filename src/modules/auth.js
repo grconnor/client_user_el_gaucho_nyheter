@@ -37,17 +37,20 @@ const signUp = async (event, dispatch, history) => {
   try {
     const email = event.target.email.value;
     const password = event.target.password.value;
+    const password_confirmation = event.target.password_confirmation.value;
     const response = await auth.signUp(email, password);
+    
 
     dispatch({
       type: "AUTHENTICATE",
       payload: {
         authenticated: response.data.success,
         currentUser: response.data.data,
+        message: "Registration successful, now you have access to El-gaucho mobile app. Visit your appstore!"
       },
     });
 
-    history.push("/", { message: response.data.data.message });
+    history.push("/");
   } catch (error) {
     dispatch({
       type: "AUTHENTICATE",
