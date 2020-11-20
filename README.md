@@ -1,3 +1,15 @@
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/grconnor)
+
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/grconnor/client_user_el_gaucho_nyheter/graphs/contributors/)
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/grconnor/client_user_el_gaucho_nyheter/pulls/)
+
+[![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/grconnor/client_user_el_gaucho_nyheter/pulls/)
+
 # The News Room Challenge:
 
 - We were challenged with building a newpaper application with three clients, user, admin and mobile which were all being dealt with by a single API.
@@ -7,7 +19,7 @@
 - [Mobile](https://github.com/grconnor/mobile_el_gaucho_nyheter)
 - [API](https://github.com/grconnor/api_el_gaucho_nyheter)
 
-## Team:
+## Devs:
 
 - Connor Roelofsen.
 - Sebastian Niewiadomski.
@@ -25,11 +37,20 @@ React v.16.13.1 </br>
 
 - Yarn
 - React
-- Cypress
+- React-Redux
+- React-Scripts
+- Redux
+- Jest & Enzyme
+- Emzyme-adapter-react
 - Axios
-- Semantic-ui-react
-- Image-uploading
-- React-redux
+- i18n
+- J-TockAuth
+- Semantic-UI
+- Start-server-and-test
+
+* Cypress https://www.cypress.io/
+* Source 'https://rubygems.org'
+
 
 ### Necessary steps:
 
