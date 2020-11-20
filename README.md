@@ -1,4 +1,4 @@
-The News Room Challenge:
+# The News Room Challenge:
 
 - We were challenged with building a newpaper application with three clients, user, admin and mobile which were all being dealt with by a single API.
 
