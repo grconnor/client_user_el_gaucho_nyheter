@@ -1,14 +1,16 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/grconnor)
-
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/grconnor/client_user_el_gaucho_nyheter/graphs/contributors/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/grconnor)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/grconnor/client_user_el_gaucho_nyheter/pulls/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/grconnor/client_user_el_gaucho_nyheter?color=blueviolet&style=flat-square)](https://github.com/grconnor/client_user_el_gaucho_nyheter)
 
-[![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/grconnor/client_user_el_gaucho_nyheter/pulls/)
+[![Github Contributors](https://img.shields.io/github/contributors/grconnor/client_user_el_gaucho_nyheter?color=blueviolet&style=flat-square)](https://github.com/grconnor/client_user_el_gaucho_nyheter/graphs/contributors)
+
+[![GitHub Open PR](https://img.shields.io/github/issues-pr/grconnor/client_user_el_gaucho_nyheter?color=blueviolet&style=flat-square)](https://github.com/grconnor/client_user_el_gaucho_nyheter/pulls)
+
+[![GitHub Closed PR](https://img.shields.io/github/issues-pr-closed/grconnor/client_user_el_gaucho_nyheter?color=blueviolet&style=flat-square)](https://github.com/grconnor/client_user_el_gaucho_nyheter/pulls)
 
 # The News Room Challenge:
 
